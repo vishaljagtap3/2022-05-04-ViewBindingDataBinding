@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ViewBindingAndDataBinding</string>
+    <string name="label_set_name">Set Name</string>
+</resources>
